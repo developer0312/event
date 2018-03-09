@@ -160,3 +160,20 @@
 .adress h4 {
   margin-bottom: 2rem;
 }
+@media (max-width: 765px) {
+  body {
+    text-align: center;
+  }
+  .imgbg {
+    margin-left: -4rem;
+  }
+  .contact .btn {
+    margin-left: 3rem;
+  }
+  .phone {
+    text-align: center;
+  }
+  .about {
+    padding-bottom: 20rem;
+  }
+}
